@@ -1,0 +1,2 @@
+# nosqli
+nosqli worldlist
